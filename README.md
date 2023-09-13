@@ -36,7 +36,7 @@ Null values are dropped from the dataset.
 
 STEP 6: FEATURE EXTRACTION
 
-Decision Tree classifier is used to select top 20 features for easy analysis.
+Decision Tree Classifier is used to select top 20 features for easy analysis.
 
 
 STEP 7: ML MODEL IMPLEMENTATION
@@ -50,4 +50,11 @@ b) Random Forest Classifier
 
 CONCLUSION:
 
-Compared to Logistic Regression, Random Forest Classifier shows better accuracy, precision, recall, f1 score and balanced accuracy.
+Compared to Logistic Regression, Random Forest Classifier has:
+
+a) more accuracy
+b) higher precision
+c) better recall
+d) better f1 score
+e) fewer false positives and false negatives
+f) more balanced accuracy
