@@ -1,6 +1,3 @@
-# GDSC
-GDSC - ML Recruitment Assignment
-
 STEP 1:  IMPORTING LIBRARIES
 
 warnings - to ignore any warnings with the word 'deprecated'
